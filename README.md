@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chemical7
-- 👀 I’m interested in ML and DS
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Machine Learning, Web Development, and Data Science
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on anything challenging but doable 
 - 📫 How to reach me ...
 
 <!---
