@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Chemical7
-- 👀 I’m interested in a wide variety of things
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on anything challenging but doable 
-- 📫 How to reach me brianleputu@gmail.com
+- 👋 Hi, I’m Brian.
+- 👷🏾‍♂️ I’m interested in buidling things.
+- 🌱 I’m currently learning to build things.
+- 🏢 I’m looking to collaborate on anything where I build something.
+- 📫 How to reach me: brianleputu@gmail.com
 
 <!---
 Chemical7/Chemical7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
